@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ShoppingTemplate.master.cs" Inherits="AtoZ.ShoppingTemplate" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>A2Z</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/popper.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootswatch/slate/bootstrap.min.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/Home.aspx">A2Z</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarColor03">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/Home.aspx">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../Products/AllProducts.aspx">Products</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../Categories/AllCategories.aspx">Categories</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../Products/RegisterProduct.aspx">Register Product</a>
+      </li>
+
+         <li class="nav-item">
+        <a class="nav-link" href="../Customers/CustomerProfile.aspx">Profile</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="../ShoppingCart/AboutUs.aspx">About Us</a>
+      </li>
+          <li class="nav-item">
+        <a class="nav-link" href="../Security/Registration.aspx">Register</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="../Security/Login.aspx">Login</a>
+      </li>
+       
+    </ul>
+    </div>
+</nav>
+       <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+      <hr/>
+      &copy; A2Z Pvt.Ltd -Year <%=DateTime.Now.Year %>
+
+
+           
+        </div>
+    </form>
+</body>
+</html>

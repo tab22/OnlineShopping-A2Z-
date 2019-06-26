@@ -1,0 +1,72 @@
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\AtoZ.dll.config
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\AtoZ.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\AtoZ.pdb
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\csc.exe
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\csc.exe.config
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\csc.rsp
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\csi.exe
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\csi.rsp
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.AppContext.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\vbc.exe
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\vbc.exe.config
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\vbc.rsp
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\VBCSCompiler.exe
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\obj\Debug\AtoZ.csprojAssemblyReference.cache
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\obj\Debug\AtoZ.csproj.CoreCompileInputs.cache
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\obj\Debug\AtoZ.csproj.CopyComplete
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\obj\Debug\AtoZ.dll
+C:\Users\DE4LL LAPTOP\source\repos\AtoZ\AtoZ\obj\Debug\AtoZ.pdb
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\AtoZ.dll.config
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\AtoZ.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\AtoZ.pdb
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\csc.exe
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\csc.exe.config
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\csc.rsp
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\csi.exe
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\csi.rsp
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.AppContext.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\vbc.exe
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\vbc.exe.config
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\vbc.rsp
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\VBCSCompiler.exe
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\obj\Debug\AtoZ.csprojAssemblyReference.cache
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\obj\Debug\AtoZ.csproj.CoreCompileInputs.cache
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\obj\Debug\AtoZ.csproj.CopyComplete
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\obj\Debug\AtoZ.dll
+C:\Users\group002.INFOWAY1\Desktop\AtoZ\AtoZ\obj\Debug\AtoZ.pdb
